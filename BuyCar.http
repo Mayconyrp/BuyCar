@@ -1,0 +1,6 @@
+@BuyCar_HostAddress = http://localhost:5020
+
+GET {{BuyCar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
